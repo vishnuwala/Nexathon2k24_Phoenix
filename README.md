@@ -1,6 +1,6 @@
 
 
-**Text-to-Poster Generator**
+***Text-to-Poster Generator***
 
 This project allows users to generate unique and creative posters based on text prompts. 
 
@@ -16,7 +16,7 @@ This project allows users to generate unique and creative posters based on text 
 * Python 3.x ([https://www.python.org/downloads/](https://www.python.org/downloads/))
 * Streamlit ([https://docs.streamlit.io/](https://docs.streamlit.io/))
 * Text-to-image generation library (e.g., Stable Diffusion: [https://huggingface.co/spaces/stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)) - Might require additional dependencies.
-* (Optional) Libraries for hardware acceleration (consult specific library documentation)
+* (Optional) Libraries for hardware acceleration like accelerate (consult specific library documentation)
 
 **Quick Start (Google Colab):**
 
@@ -49,8 +49,6 @@ This project allows users to generate unique and creative posters based on text 
 3. Click the "Generate Poster" button.
 4. The app will generate a unique poster image based on your provided information.
 
-**Output**
-![[Image Alt Text]]([/poster_design_2.jpg])
 
 
 
