@@ -49,6 +49,8 @@ This project allows users to generate unique and creative posters based on text 
 3. Click the "Generate Poster" button.
 4. The app will generate a unique poster image based on your provided information.
 
+**You can also create your own dataset and apply transfer learning for it checkout - https://huggingface.co/docs/diffusers/en/training/create_dataset**
+
 
 
 
