@@ -1,4 +1,4 @@
-Absolutely! Here's a draft README file for your text-to-poster project:
+
 
 **Text-to-Poster Generator**
 
@@ -49,18 +49,10 @@ This project allows users to generate unique and creative posters based on text 
 3. Click the "Generate Poster" button.
 4. The app will generate a unique poster image based on your provided information.
 
-**Additional Notes:**
-
-* Consider adding a "Show Generated Prompt" option to display the final text prompt used for image generation. 
-* Explore caching mechanisms for previously generated images to improve performance for recurring prompts.
-* Refer to the documentation of the chosen text-to-image generation library for specific usage instructions and optimization techniques. 
+**Output**
+![[Image Alt Text]]([/poster_design_2.jpg])
 
 
-**Feel free to customize this README further by including:**
-
-* Screenshots or GIFs showcasing the UI and generated posters.
-* Links to relevant resources or documentation for the used libraries.
-* Contribution guidelines if you plan to open-source the project.
 
 
-I hope this helps!
+
